@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background: url("../css/assests/backgorund.png")no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.instagram{
+list-style-image: url("../css/assests/Insta.png");
+}
+.twitter{
+list-style-image: url("../css/assests/Twitter.png");
+}
+.youtube{
+list-style-image: url("../css/assests/Youtube.png");
+}
